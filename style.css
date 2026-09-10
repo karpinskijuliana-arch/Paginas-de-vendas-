@@ -3,4 +3,5 @@
              display: flex;
              justify-content: space-around;}
 .imagem-logo{width: 300px;}
-.sobre{background-color: aquamarine;}
+.sobre{background-color: rgb(11, 11, 11);
+    color: blueviolet;}
